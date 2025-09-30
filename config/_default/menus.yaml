@@ -1,0 +1,19 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: a440fb90-c3a7-d3a1-dce6-4efa5f7e6804
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0daf237c-d56a-3464-9fa4-a7c050c92700
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: eff10977-6a46-ac02-ebb1-9f358cbf80e4
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 2a343487-ca39-e1fa-6ef8-68c7a20ceabf
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
